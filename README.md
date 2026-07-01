@@ -8,8 +8,8 @@ Built by Vane, a smart contract security-focused developer based in Nigeria.
 
 | # | Vulnerability | Severity | Status |
 |---|---------------|----------|--------|
-| 001 | [Reentrancy]() | Critical | Mitigated |
-| 002 | [Access Control](vane-solidity-security-lab/access-control/Access-control-report.md) | Critical | Mitigated |
+| 001 | [Reentrancy](reentrancy/reentrancy-report.md) | Critical | Mitigated |
+| 002 | [Access Control](access-control/Access-control-report.md) | Critical | Mitigated |
 | 003 | Front-Running / MEV | Critical | In Progress |
 
 ## Stack
