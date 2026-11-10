@@ -1,9 +1,12 @@
 # Security Audit Report: Oracle Manipulation via Spot Price in a Lending Market
 
 **Auditor:** Vane (@vanebuilds_)
-**Scope:** `InsecureLending.sol` (vulnerable), `OracleAttacker.sol` (attacker), `SecureLending.sol` (fix)
+**Scope:** `InsecureLending.sol` (vulnerable), 
+`OracleAttacker.sol` (attacker), 
+`SecureLending.sol` (fix)
 **Classification:** Oracle Manipulation / Price Feed Dependence
-**Status:** ✅ Verified: `forge test` passes 5/5 tests. Mitigated by TWAP.
+**Status:** Verified: 
+`forge test` passes 5/5 tests. Mitigated by TWAP.
 
 ---
 
