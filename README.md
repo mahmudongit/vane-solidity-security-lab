@@ -12,7 +12,7 @@ Built by Vane, a smart contract security-focused developer based in Nigeria.
 | 002 | [Access Control](access-control/Access-control-report.md) | Critical | Mitigated |
 | 003 | [Front-Running / MEV](front-running/front-running-report.md) | Critical | Mitigated |
 | 004 | [Oracle-Manipulation](oracle-manipulation/oracle-manipulation-report.md) | Critical | Mitigated |
-| 005 | [Arithmetic-Precision-Loss]() | Critical | Mitigated
+| 005 | [Arithmetic-Precision-Loss](arithmetic-precision-loss/arithmetic-precision-loss-report.md) | Critical | Mitigated
 
 ## Stack
 
